@@ -325,6 +325,7 @@ img {
 
 .project-title {
   /* margin-top: 20px; */
+  padding-top: 20px;
   margin-left: 24px;
   margin-right: 24px;
   margin-bottom: 4px;
@@ -337,7 +338,8 @@ img {
 .project-filter {
   margin-left: 24px;
   margin-right: 24px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
+  padding-bottom: 20px;
   color: var(--primery-text-color);
   font-weight: 400;
   font-size: 16px;
@@ -346,7 +348,8 @@ img {
 }
 
 .border {
-  padding-top: 20px;
+  /* margin-top: 20px; */
+  /* padding-top: 20px; */
   border: 1px solid #eeeeee;
   border-top: none;
 }
